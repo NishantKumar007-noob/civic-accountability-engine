@@ -1,0 +1,16 @@
+{
+  "name": "Civic Accountability Engine",
+  "short_name": "CivicEngine",
+  "description": "AI-powered civic issue reporting and accountability dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
